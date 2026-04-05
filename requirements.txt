@@ -1,0 +1,8 @@
+opencv-python
+pychromecast
+sounddevice
+numpy
+scipy
+streamlit
+zeroconf
+librosa
